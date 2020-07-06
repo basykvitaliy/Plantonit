@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Plantonit</string>
+    <string name="no_connection">Нет соединения...</string>
+    <string name="retry">Перезагрузить</string>
+    <string name="next">Вперед</string>
+    <string name="reload">Перезагрузить</string>
+    <string name="back">Назад</string>
 </resources>
