@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
     private ProgressDialog progressDialog;  //прогресс диалог нуже н для позака окошка с текстом "Загрузка. Пожалуйста подождите." поверх всех окон
     private RelativeLayout relativeLayout;
     private Button buttonNoInternet;
-    private SwipeRefreshLayout swipeRefreshLayout;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
